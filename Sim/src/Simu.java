@@ -348,7 +348,7 @@ class Data{
         try{
             PrintWriter pw=new PrintWriter(new BufferedWriter(new FileWriter(file,true)));
             //System.out.println(file);
-            pw.print("turn");
+            pw.print("Turn ");
             pw.println(turn);//System.out.println(turn);
             for(int i=0;i<H;i++){
                 for(int j=0;j<W;j++){

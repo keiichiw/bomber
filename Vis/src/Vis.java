@@ -110,7 +110,7 @@ class VisFrame extends JFrame{
 			try{
 				f=new Field(H,W,fn,0);
 				repaint();
-				Thread.sleep(4000);
+				Thread.sleep(2000);
 				while(true){
 					f=new Field(H,W,fn,a);
 					repaint();
@@ -144,5 +144,5 @@ public class Vis{
 	public static String fname="./data/result.txt";
 	public static void main(String[] args) {
 		new VisFrame(W,H,fname);
-    }	
+  }	
 }
