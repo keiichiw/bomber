@@ -1,4 +1,4 @@
-Simulate:
+Visuaize:
 	javac -d ./bin/ ./src/Vis.java
 
 clean:
