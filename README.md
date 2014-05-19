@@ -13,13 +13,11 @@ I refered to the rule of [CODE VS 3.0](https://codevs.jp/ "codevs"), a game-AI c
 
 ```
 make
-
 ```
 
 ### Simulate
 ```
 ./simulate.sh 
-
 ```
 At this step, battle of `./Sim/src/player1.cpp` and `./Sim/src/player2.cpp` is simulated and the result is written on `./data/result.txt`.
 
@@ -27,6 +25,5 @@ At this step, battle of `./Sim/src/player1.cpp` and `./Sim/src/player2.cpp` is s
 
 ```
 ./visualize.sh
-
 ```
-Java program visualizes `./data/result.txt`.
+Then, Java program visualizes `./data/result.txt`.
