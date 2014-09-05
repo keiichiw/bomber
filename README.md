@@ -1,7 +1,7 @@
 ## Overview
 
-These are AI programs for a game like "Bomberman" and its simulator.
-AI programs are written in C++ and simulator and visualizer are Java.
+These are AI program for a game like "Bomberman" and its simulator.
+AI is written in C++ and the others are in Java.
 
 I refered to the rule of [CODE VS 3.0](https://codevs.jp/ "codevs"), a game-AI contest.
 
